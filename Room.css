@@ -13,15 +13,20 @@ body{
     margin-left: 20px;
     margin-right: 20px;
 }
-#Room_Names
+#Output
 {
     padding: 10px; 
     width:80%;
-    background: rgba(255,255,255,0.8);
+    background: wheat;
     border-radius: 15px;
     margin-left: 150px;
     margin-top: 20px;
 }
 h2{
     text-align: center;
+}
+.room_name
+{
+	cursor: pointer;
+	font-size: 20px;
 }
